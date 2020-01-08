@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-notify.git",
-    "baseUrl": "https://github.com/github_account/react-native-notify"
+    "url": "git+https://github.com/lambadigital/react-native-notify.git",
+    "baseUrl": "https://github.com/lambadigital/react-native-notify"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Zeki Ünal",
+    "email": "zekiunal@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
